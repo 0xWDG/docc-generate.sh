@@ -1,6 +1,9 @@
 # docc-generate.sh
 Script generates documentation for a Swift package using the Swift-DocC tool.
 
+> [!WARNING]
+> Deprecated, use the github action -> https://github.com/0xWDG/build-documentation
+
 # Installation:
 Run `curl -O https://raw.githubusercontent.com/0xWDG/docc-generate.sh/main/docc-generate.sh && chmod +x docc-generate.sh`
 
